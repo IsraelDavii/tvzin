@@ -1,88 +1,86 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="Telecine Action SD" tvg-name="Telecine Action FHD" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Séries",Telecine Action
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Séries",Telecine Action
 http://64.31.23.207:80/08892467/61552913/324314.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult FHD" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Séries",Telecine Cult
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Séries",Telecine Cult
 http://64.31.23.207:80/08892467/61552913/324320.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun FHD" tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes e Séries",Telecine Fun
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes e Séries",Telecine Fun
 http://64.31.23.207:80/08892467/61552913/324326.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca FHD" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca
 http://64.31.23.207:80/08892467/61552913/324332.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium FHD" tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine Premium.br tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium
 http://64.31.23.207:80/08892467/61552913/324338.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch FHD" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch
 http://64.31.23.207:80/08892467/61552913/324344.m3u8
-#EXTINF:-1 tvg-id="HBO SD" tvg-name="HBO FHD" tvg-logo="https://img.faz-o-eli.online/hbo.png" group-title="Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://img.faz-o-eli.online/hbo.png" group-title="Filmes e Séries",HBO
 http://64.31.23.207:80/08892467/61552913/514107.m3u8
-#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 FHD" tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries",HBO 2
 http://64.31.23.207:80/08892467/61552913/514110.m3u8
-#EXTINF:-1 tvg-id="HBO Family SD" tvg-name="HBO Family FHD" tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes e Séries",HBO Family
+#EXTINF:-1 tvg-id="HBO Family.br" tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes e Séries",HBO Family
 http://64.31.23.207:80/08892467/61552913/514113.m3u8
-#EXTINF:-1 tvg-id="HBO Mundi SD" tvg-name="HBO Mundi FHD" tvg-logo="https://img.faz-o-eli.online/hbomundi.png" group-title="Filmes e Séries",HBO Mundi
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-logo="https://img.faz-o-eli.online/hbomundi.png" group-title="Filmes e Séries",HBO Mundi
 http://64.31.23.207:80/08892467/61552913/514116.m3u8
-#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus FHD" tvg-logo="https://img.faz-o-eli.online/hboplus.png" group-title="Filmes e Séries",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus.br" tvg-logo="https://img.faz-o-eli.online/hboplus.png" group-title="Filmes e Séries",HBO Plus
 http://64.31.23.207:80/08892467/61552913/514119.m3u8
-#EXTINF:-1 tvg-id="265" tvg-name="HBO Pop FHD" tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries",HBO Pop
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries",HBO Pop
 http://64.31.23.207:80/08892467/61552913/514122.m3u8
-#EXTINF:-1 tvg-id="HBO Signature SD" tvg-name="HBO Signature FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbosignature.png" group-title="Filmes e Séries",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-logo="http://www.fontedecanais.me/logos/canais/hbosignature.png" group-title="Filmes e Séries",HBO Signature
 http://64.31.23.207:80/08892467/61552913/514125.m3u8
-#EXTINF:-1 tvg-id="HBO Xtreme SD" tvg-name="HBO Xtreme FHD" tvg-logo="https://img.faz-o-eli.online/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-logo="https://img.faz-o-eli.online/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme
 http://64.31.23.207:80/08892467/61552913/514128.m3u8
-#EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC FHD" tvg-logo="https://img.faz-o-eli.online/amc.png" group-title="Filmes e Séries",AMC
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://img.faz-o-eli.online/amc.png" group-title="Filmes e Séries",AMC
 http://64.31.23.207:80/08892467/61552913/324427.m3u8
-#EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN FHD" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries",AXN
+#EXTINF:-1 tvg-id="AXN.br" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries",AXN
 http://64.31.23.207:80/08892467/61552913/324433.m3u8
-#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E FHD" tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Filmes e Séries",A&E
+#EXTINF:-1 tvg-id="A&E.br" tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Filmes e Séries",A&E
 http://64.31.23.207:80/08892467/61552913/518547.m3u8
-#EXTINF:-1 tvg-id="322" tvg-name="Adult Swim FHD" tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Filmes e Séries",Adult Swim
-http://64.31.23.207:80/08892467/61552913/518592.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil FHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Logotipo_do_Canal_Brasil_%282020%29.svg/1280px-Logotipo_do_Canal_Brasil_%282020%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Filmes e Séries",Canal Brasil
+#EXTINF:-1 tvg-id="Adult Swim.br" tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Filmes e Séries",Adult Swim
+https://bcf125302240-tvvio.baby-beamup.club/hls/adultswim.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil.br" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Logotipo_do_Canal_Brasil_%282020%29.svg/1280px-Logotipo_do_Canal_Brasil_%282020%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Filmes e Séries",Canal Brasil
 http://64.31.23.207:80/08892467/61552913/324439.m3u8
-#EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax FHD" tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries",Cinemax
 http://64.31.23.207:80/08892467/61552913/324445.m3u8
-#EXTINF:-1 tvg-id="Megapix SD" tvg-name="Megapix FHD" tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Séries",Megapix
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Séries",Megapix
 http://64.31.23.207:80/08892467/61552913/324451.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="Sony Channel FHD" tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries",Sony Channel
+#EXTINF:-1 tvg-id="Sony Channel.br" tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries",Sony Channel
 http://64.31.23.207:80/08892467/61552913/324457.m3u8
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space FHD" tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes e Séries",Space
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes e Séries",Space
 http://64.31.23.207:80/08892467/61552913/324463.m3u8
-#EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal FHD" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="Filmes e Séries",Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal.br" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="Filmes e Séries",Studio Universal
 http://64.31.23.207:80/08892467/61552913/324469.m3u8
-#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM FHD" tvg-logo="https://img.faz-o-eli.online/tcm.png" group-title="Filmes e Séries",TCM
+#EXTINF:-1 tvg-id="TCM.br" tvg-logo="https://img.faz-o-eli.online/tcm.png" group-title="Filmes e Séries",TCM
 http://64.31.23.207:80/08892467/61552913/324475.m3u8
-#EXTINF:-1 tvg-id="TNT SD" tvg-name="TNT FHD" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Séries",TNT
 http://64.31.23.207:80/08892467/61552913/324481.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="TNT Séries FHD" tvg-logo="https://img.faz-o-eli.online/tntseries.png" group-title="Filmes e Séries",TNT Séries
+#EXTINF:-1 tvg-id="TNT Séries.br" tvg-logo="https://img.faz-o-eli.online/tntseries.png" group-title="Filmes e Séries",TNT Séries
 http://64.31.23.207:80/08892467/61552913/324493.m3u8
-#EXTINF:-1 tvg-id="Universal Channel SD" tvg-name="Universal Channel FHD" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Séries",Universal Channel
+#EXTINF:-1 tvg-id="Universal Channel.br" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Séries",Universal Channel
 http://64.31.23.207:80/08892467/61552913/324499.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="USA Network FHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/USA_Network_1996.svg/1920px-USA_Network_1996.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Filmes e Séries",USA Network
+#EXTINF:-1 tvg-id="52" tvg-name="USA Network.br" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/USA_Network_1996.svg/1920px-USA_Network_1996.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Filmes e Séries",USA Network
 http://64.31.23.207:80/08892467/61552913/324505.m3u8
-#EXTINF:-1 tvg-id="Warner Channel SD" tvg-name="Warner Channel FHD" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png" group-title="Filmes e Séries",Warner Channel
+#EXTINF:-1 tvg-id="Warner Channel.br" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png" group-title="Filmes e Séries",Warner Channel
 http://64.31.23.207:80/08892467/61552913/324511.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater SD" tvg-name="Discovery Theater FHD" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Filmes e Séries",Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Filmes e Séries",Discovery Theater
 http://64.31.23.207:80/08892467/61552913/297954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções HD" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonyone.png" group-title="Filmes e Séries",Sony One Emoções
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções.br" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonyone.png" group-title="Filmes e Séries",Sony One Emoções
 http://64.31.23.207:80/08892467/61552913/324517.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Movies HD" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonymovies.png" group-title="Filmes e Séries",Sony Movies
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Movies.br" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonymovies.png" group-title="Filmes e Séries",Sony Movies
 http://64.31.23.207:80/08892467/61552913/324518.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC Séries FHD" tvg-logo="https://www.amcseries.com/assets/logo/yMsAzwSPVC_01-amc-series-logos-horizontal-white.png" group-title="Filmes e Séries",AMC Séries
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://www.amcseries.com/assets/logo/yMsAzwSPVC_01-amc-series-logos-horizontal-white.png" group-title="Filmes e Séries",AMC Séries
 http://64.31.23.207:80/08892467/61552913/324531.m3u8
-#EXTINF:-1 tvg-name="Film&Arts FHD [H265]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" group-title="Filmes e Séries",Film&Arts
+#EXTINF:-1 tvg-id="Film&Arts.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" group-title="Filmes e Séries",Film&Arts
 http://cerejadoce.live:80/68dGF/YcvT7/104920.ts
-#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.dev/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 01
-http://64.31.23.207:80/08892467/61552913/1832882.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 01
+#EXTINF:-1 tvg-id="Cine Sky 1.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 01
 http://64.31.23.207:80/08892467/61552913/1882617.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 2" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 02
+#EXTINF:-1 tvg-id="Cine Sky 2.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 02
 http://64.31.23.207:80/08892467/61552913/1882618.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 3" tvg-name="Cine SKY 03" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 03
+#EXTINF:-1 tvg-id="Cine Sky 3.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 03
 http://64.31.23.207:80/08892467/61552913/1882619.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 4" tvg-name="Cine SKY 04" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 04
+#EXTINF:-1 tvg-id="Cine Sky 4.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 04
 http://64.31.23.207:80/08892467/61552913/1882620.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 5" tvg-name="Cine SKY 05" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 05
+#EXTINF:-1 tvg-id="Cine Sky 5.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 05
 http://64.31.23.207:80/08892467/61552913/1882621.m3u8
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR: My Time Movie HD" tvg-logo="http://97j91.xyz/images/logos/mytime-movie-network-l.png" group-title="Filmes e Séries",My Time Movie
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://97j91.xyz/images/logos/mytime-movie-network-l.png" group-title="Filmes e Séries",My Time Movie
 http://64.31.23.207:80/08892467/61552913/324528.m3u8
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="The History FHD" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários",History Channel
 http://64.31.23.207:80/08892467/61552913/296613.m3u8
