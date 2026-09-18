@@ -8,7 +8,7 @@ http://64.31.23.207:80/08892467/61552913/324320.m3u8
 http://64.31.23.207:80/08892467/61552913/324326.m3u8
 #EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca
 http://64.31.23.207:80/08892467/61552913/324332.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium.br tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium
 http://64.31.23.207:80/08892467/61552913/324338.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch.br" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch
 http://64.31.23.207:80/08892467/61552913/324344.m3u8
@@ -62,7 +62,7 @@ http://64.31.23.207:80/08892467/61552913/324505.m3u8
 http://64.31.23.207:80/08892467/61552913/324511.m3u8
 #EXTINF:-1 tvg-id="Discovery Theater.br" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Filmes e Séries",Discovery Theater
 http://64.31.23.207:80/08892467/61552913/297954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções.br" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonyone.png" group-title="Filmes e Séries",Sony One Emoções
+#EXTINF:-1 tvg-id="Sony One Emoções.br" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonyone.png" group-title="Filmes e Séries",Sony One Emoções
 http://64.31.23.207:80/08892467/61552913/324517.m3u8
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Movies.br" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonymovies.png" group-title="Filmes e Séries",Sony Movies
 http://64.31.23.207:80/08892467/61552913/324518.m3u8
@@ -70,146 +70,124 @@ http://64.31.23.207:80/08892467/61552913/324518.m3u8
 http://64.31.23.207:80/08892467/61552913/324531.m3u8
 #EXTINF:-1 tvg-id="Film&Arts.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" group-title="Filmes e Séries",Film&Arts
 http://cerejadoce.live:80/68dGF/YcvT7/104920.ts
-#EXTINF:-1 tvg-id="Cine Sky 1.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 01
-http://64.31.23.207:80/08892467/61552913/1882617.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 2.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 02
-http://64.31.23.207:80/08892467/61552913/1882618.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 3.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 03
-http://64.31.23.207:80/08892467/61552913/1882619.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 4.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 04
-http://64.31.23.207:80/08892467/61552913/1882620.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 5.br" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes e Séries",Cine SKY 05
-http://64.31.23.207:80/08892467/61552913/1882621.m3u8
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://97j91.xyz/images/logos/mytime-movie-network-l.png" group-title="Filmes e Séries",My Time Movie
-http://64.31.23.207:80/08892467/61552913/324528.m3u8
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="The History FHD" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários",History Channel
+#EXTINF:-1 tvg-id="History Channel.br" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários",History Channel
 http://64.31.23.207:80/08892467/61552913/296613.m3u8
-#EXTINF:-1 tvg-id="H2 SD" tvg-name="H2 FHD" tvg-logo="https://img.faz-o-eli.online/history2.png" group-title="Documentários",H2
+#EXTINF:-1 tvg-id="History 2.br" tvg-logo="https://img.faz-o-eli.online/history2.png" group-title="Documentários",H2
 http://64.31.23.207:80/08892467/61552913/296616.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="Discovery Channel FHD" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentários",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel.br" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentários",Discovery Channel
 http://64.31.23.207:80/08892467/61552913/297936.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="Discovery Turbo FHD" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários",Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários",Discovery Turbo
 http://64.31.23.207:80/08892467/61552913/297942.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-name="Discovery ID FHD" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentários",Discovery ID
+#EXTINF:-1 tvg-id="Discovery ID.br" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentários",Discovery ID
 http://64.31.23.207:80/08892467/61552913/297948.m3u8
-#EXTINF:-1 tvg-id="Discovery Science SD" tvg-name="Discovery Science FHD" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentários",Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentários",Discovery Science
 http://64.31.23.207:80/08892467/61552913/297951.m3u8
-#EXTINF:-1 tvg-id="Discovery World SD" tvg-name="Discovery World FHD" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentários",Discovery World
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentários",Discovery World
 http://64.31.23.207:80/08892467/61552913/297957.m3u8
-#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="Animal Planet FHD" tvg-logo="https://img.faz-o-eli.online/animalplanet.png" group-title="Documentários",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet.br" tvg-logo="https://img.faz-o-eli.online/animalplanet.png" group-title="Documentários",Animal Planet
 http://64.31.23.207:80/08892467/61552913/296619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent.png" group-title="Documentários",Love Nature
+#EXTINF:-1 tvg-id="Love Nature.br" tvg-logo="http://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent.png" group-title="Documentários",Love Nature
 http://64.31.23.207:80/08892467/61552913/296622.m3u8
-#EXTINF:-1 tvg-id="SporTV SD" tvg-name="SporTV FHD" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",SporTV
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",SporTV
 http://64.31.23.207:80/08892467/61552913/3460200.m3u8
-#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-name="SporTV 2 FHD" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Esportes",SporTV 2
+#EXTINF:-1 tvg-id="SporTV 2.br" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Esportes",SporTV 2
 http://64.31.23.207:80/08892467/61552913/3460203.m3u8
-#EXTINF:-1 tvg-id="SporTV 3 SD" tvg-name="SporTV 3 FHD" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes",SporTV 3
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes",SporTV 3
 http://64.31.23.207:80/08892467/61552913/3460206.m3u8
-#EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN FHD" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes",ESPN
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes",ESPN
 http://64.31.23.207:80/08892467/61552913/3460182.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 FHD" tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.br" tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes",ESPN 2
 http://64.31.23.207:80/08892467/61552913/3460185.m3u8
-#EXTINF:-1 tvg-id="ESPN 3 FHD" tvg-name="ESPN 3 FHD" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3.br" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes",ESPN 3
 http://64.31.23.207:80/08892467/61552913/3460188.m3u8
-#EXTINF:-1 tvg-id="ESPN 4 SD" tvg-name="ESPN 4 FHD" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4.br" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4
 http://64.31.23.207:80/08892467/61552913/3460191.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="ESPN 5 FHD" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5.br" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes",ESPN 5
 http://64.31.23.207:80/08892467/61552913/3460194.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 FHD" tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6.br" tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes",ESPN 6
 http://64.31.23.207:80/08892467/61552913/3460197.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 FHD" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",﻿Premiere 1
+#EXTINF:-1 tvg-id="Premiere 1.br" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",﻿Premiere 1
 http://64.31.23.207:80/08892467/61552913/3460209.m3u8
-#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-name="Premiere 2 FHD" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 2
+#EXTINF:-1 tvg-id="Premiere 2.br" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 2
 http://64.31.23.207:80/08892467/61552913/3460212.m3u8
-#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-name="Premiere 3 FHD" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 3
+#EXTINF:-1 tvg-id="Premiere 3.br" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 3
 http://64.31.23.207:80/08892467/61552913/3460215.m3u8
-#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-name="Premiere 4 FHD" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 4
+#EXTINF:-1 tvg-id="Premiere 4.br" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 4
 http://64.31.23.207:80/08892467/61552913/3460218.m3u8
-#EXTINF:-1 tvg-id="Premiere 5 SD" tvg-name="Premiere 5 FHD" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 5
+#EXTINF:-1 tvg-id="Premiere 5.br" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 5
 http://64.31.23.207:80/08892467/61552913/3460221.m3u8
-#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-name="Premiere 6 FHD" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 6
+#EXTINF:-1 tvg-id="Premiere 6.br" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 6
 http://64.31.23.207:80/08892467/61552913/3460224.m3u8
-#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="Premiere 7 FHD" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 7
+#EXTINF:-1 tvg-id="Premiere 7.br" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 7
 http://64.31.23.207:80/08892467/61552913/3460227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 FHD" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 8
+#EXTINF:-1 tvg-id="Premiere 8.br" group-title="Esportes",Premiere 8
 http://64.31.23.207:80/08892467/61552913/3460230.m3u8
-#EXTINF:-1 tvg-id="Combate SD" tvg-name="Combate FHD" tvg-logo="https://img.faz-o-eli.online/combate.png" group-title="Esportes",Combate
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://img.faz-o-eli.online/combate.png" group-title="Esportes",Combate
 http://64.31.23.207:80/08892467/61552913/297542.m3u8
-#EXTINF:-1 tvg-id="Band Sports SD" tvg-name="Band Sports FHD" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",Band Sports
+#EXTINF:-1 tvg-id="Band Sports.br" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",Band Sports
 http://64.31.23.207:80/08892467/61552913/3460152.m3u8
-#EXTINF:-1 tvg-id="466" tvg-name="GE TV FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/getv.png" group-title="Esportes",GE TV
+#EXTINF:-1 tvg-id="GE TV.br" tvg-logo="http://www.fontedecanais.gs/logos/canais/getv.png" group-title="Esportes",GE TV
 http://64.31.23.207:80/08892467/61552913/3460155.m3u8
-#EXTINF:-1 tvg-id="Woohoo SD" tvg-name="WooHoo HD" tvg-logo="http://www.fontedecanais.me/logos/canais/woohoo.png" group-title="Esportes",WooHoo
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="http://www.fontedecanais.me/logos/canais/woohoo.png" group-title="Esportes",WooHoo
 http://64.31.23.207:80/08892467/61552913/518599.m3u8
-#EXTINF:-1 tvg-id="296" tvg-name="SportyNet 01" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportynet.png" group-title="Esportes",SportyNet 01
-http://64.31.23.207:80/08892467/61552913/3460158.m3u8
-#EXTINF:-1 tvg-id="297" tvg-name="SportyNet 02" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportynet2.png" group-title="Esportes",SportyNet 02
-http://64.31.23.207:80/08892467/61552913/3460159.m3u8
-#EXTINF:-1 tvg-id="298" tvg-name="SportyNet 03" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportynet3.png" group-title="Esportes",SportyNet 03
-http://64.31.23.207:80/08892467/61552913/3460160.m3u8
-#EXTINF:-1 tvg-id="Estadio TNT Sports 04" tvg-name="SportyNet 04" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportynet.png" group-title="Esportes",SportyNet 04
-http://64.31.23.207:80/08892467/61552913/3460161.m3u8
-#EXTINF:-1 tvg-id="439" tvg-name="XSports" tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Esportes",XSports
+#EXTINF:-1 tvg-id="439" tvg-name="XSports.br" tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Esportes",XSports
 http://64.31.23.207:80/08892467/61552913/3460175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE BA (JOGO 01)" tvg-logo="http://logos.appscms.xyz/logos/2025/tveba.png" group-title="Esportes",TVE BA (JOGO 01)
-http://64.31.23.207:80/08892467/61552913/3460259.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="Cartoon Network FHD" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantis",Cartoon Network
-http://64.31.23.207:80/08892467/61552913/1882622.m3u8
-#EXTINF:-1 tvg-id="Gloob SD" tvg-name="Gloob FHD" tvg-logo="https://img.faz-o-eli.online/gloob.png" group-title="Infantis",Gloob
-http://64.31.23.207:80/08892467/61552913/1882625.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="Gloobinho FHD" tvg-logo="https://logos.imperioapps.top/GLOBINHO.png" group-title="Infantis",Gloobinho
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantis",Cartoon Network
+https://bcf125302240-tvvio.baby-beamup.club/hls/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://img.faz-o-eli.online/gloob.png" group-title="Infantis",Gloob
+https://bcf125302240-tvvio.baby-beamup.club/hls/gloob.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://logos.imperioapps.top/GLOBINHO.png" group-title="Infantis",Gloobinho
 http://64.31.23.207:80/08892467/61552913/1882628.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Cartoonito FHD" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantis",Cartoonito
-http://64.31.23.207:80/08892467/61552913/1882631.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-name="Discovery Kids FHD" tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantis",Discovery Kids
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantis",Cartoonito
+https://bcf125302240-tvvio.baby-beamup.club/hls/cartoonito.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantis",Discovery Kids
 http://64.31.23.207:80/08892467/61552913/297945.m3u8
-#EXTINF:-1 tvg-id="TV Ra tim bum SD" tvg-name="TV Ra Tim Bum FHD" tvg-logo="https://logos.imperioapps.top/TV_RA_TIM_BUM.png" group-title="Infantis",TV Ra Tim Bum
+#EXTINF:-1 tvg-id="TV Ra tim bum.br" tvg-logo="https://logos.imperioapps.top/TV_RA_TIM_BUM.png" group-title="Infantis",TV Ra Tim Bum
 http://64.31.23.207:80/08892467/61552913/1882634.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids Mais HD" tvg-logo="https://i.imgur.com/86cfDFx.png" group-title="Infantis",Kids Mais
+#EXTINF:-1 tvg-id="Kids Mais.br" tvg-logo="https://i.imgur.com/86cfDFx.png" group-title="Infantis",Kids Mais
 http://64.31.23.207:80/08892467/61552913/1882637.m3u8
-#EXTINF:-1 tvg-id="Tooncast SD" tvg-name="Tooncast FHD" tvg-logo="https://www.fontedecanais.tv/logos/canais/tooncast.png" group-title="Infantis",Tooncast
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://www.fontedecanais.tv/logos/canais/tooncast.png" group-title="Infantis",Tooncast
 http://64.31.23.207:80/08892467/61552913/1882638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DumDum FHD" tvg-logo="https://logos.imperioapps.top/DUMDUM.png" group-title="Infantis",DumDum
+#EXTINF:-1 tvg-id="DumDum.br" tvg-logo="https://logos.imperioapps.top/DUMDUM.png" group-title="Infantis",DumDum
 http://64.31.23.207:80/08892467/61552913/1882641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Box Kids TV" tvg-logo="https://boxbrazil.tv.br/assets/images/logos/box-kids-logo.png" group-title="Infantis",Box Kids
+#EXTINF:-1 tvg-id="Box Kids.br" tvg-logo="https://boxbrazil.tv.br/assets/images/logos/box-kids-logo.png" group-title="Infantis",Box Kids
 http://64.31.23.207:80/08892467/61552913/1882644.m3u8
-#EXTINF:-1 tvg-id="87" tvg-name="E! FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/e.png" group-title="Entretenimento",E!
+#EXTINF:-1 tvg-id="E!.br" tvg-logo="http://www.fontedecanais.me/logos/canais/e.png" group-title="Entretenimento",E!
 http://64.31.23.207:80/08892467/61552913/518559.m3u8
-#EXTINF:-1 tvg-id="Multishow SD" tvg-name="Multishow FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/multishow.png" group-title="Entretenimento",Multishow
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://www.fontedecanais.me/logos/canais/multishow.png" group-title="Entretenimento",Multishow
 http://64.31.23.207:80/08892467/61552913/518580.m3u8
-#EXTINF:-1 tvg-id="Lifetime SD" tvg-name="Lifetime FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/lifetime.png" group-title="Entretenimento",Lifetime
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://www.fontedecanais.me/logos/canais/lifetime.png" group-title="Entretenimento",Lifetime
 http://64.31.23.207:80/08892467/61552913/518571.m3u8
-#EXTINF:-1 tvg-id="324" tvg-name="Universal Reality FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/universalreality.png" group-title="Entretenimento",Universal Reality
-http://64.31.23.207:80/08892467/61552913/518601.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H FHD" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png" group-title="Estilo de Vida",Discovery H&H
+#EXTINF:-1 tvg-id="Discovery H&H.br" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png" group-title="Estilo de Vida",Discovery H&H
 http://64.31.23.207:80/08892467/61552913/297939.m3u8
-#EXTINF:-1 tvg-id="Food Network SD" tvg-name="Food Network HD" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Estilo de Vida",Food Network
+#EXTINF:-1 tvg-id="Food Network.br" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Estilo de Vida",Food Network
 http://64.31.23.207:80/08892467/61552913/518566.m3u8
-#EXTINF:-1 tvg-id="GNT SD" tvg-name="GNT FHD" tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Estilo de Vida",GNT
+#EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Estilo de Vida",GNT
 http://64.31.23.207:80/08892467/61552913/518568.m3u8
-#EXTINF:-1 tvg-id="HGTV SD" tvg-logo="https://img.faz-o-eli.online/hgtv.png" group-title="Estilo de Vida",HGTV
+#EXTINF:-1 tvg-id="HGTV.br" tvg-logo="https://img.faz-o-eli.online/hgtv.png" group-title="Estilo de Vida",HGTV
 https://bcf125302240-tvvio.baby-beamup.club/hls/hgtv.m3u8
-#EXTINF:-1 tvg-id="TLC SD" tvg-name="TLC FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/tlc.png" group-title="Estilo de Vida",TLC
+#EXTINF:-1 tvg-id="TLC.br" tvg-logo="http://www.fontedecanais.me/logos/canais/tlc.png" group-title="Estilo de Vida",TLC
 http://64.31.23.207:80/08892467/61552913/518586.m3u8
-#EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="Estilo de Vida",Modo Viagem
+#EXTINF:-1 tvg-id="Universal Reality.br" tvg-logo="http://www.fontedecanais.me/logos/canais/universalreality.png" group-title="Entretenimento",Universal Reality
+http://64.31.23.207:80/08892467/61552913/518601.m3u8
+#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-logo="http://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="Estilo de Vida",Modo Viagem
 http://64.31.23.207:80/08892467/61552913/518574.m3u8
-#EXTINF:-1 tvg-id="OFF SD" tvg-name="Off FHD" tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Estilo de Vida",Off
+#EXTINF:-1 tvg-id="OFF.br" tvg-name="Off FHD" tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Estilo de Vida",Off
 http://64.31.23.207:80/08892467/61552913/518583.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="Travel Box Brazil FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/travelboxbrazil.png" group-title="Estilo de Vida",Travel Box Brazil
+#EXTINF:-1 tvg-id="75" tvg-name="Travel Box Brazil.br" tvg-logo="http://www.fontedecanais.me/logos/canais/travelboxbrazil.png" group-title="Estilo de Vida",Travel Box Brazil
 http://64.31.23.207:80/08892467/61552913/518589.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="FishTV FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/fishtv.png" group-title="Estilo de Vida",FishTV
+#EXTINF:-1 tvg-id="40" tvg-name="FishTV.br" tvg-logo="http://www.fontedecanais.me/logos/canais/fishtv.png" group-title="Estilo de Vida",FishTV
 http://64.31.23.207:80/08892467/61552913/518562.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="Globoplay Novelas FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/globoplaynovelas.png" group-title="Novelas",Globoplay Novelas
+#EXTINF:-1 tvg-id="99" tvg-name="Globoplay Novelas.br" tvg-logo="http://www.fontedecanais.me/logos/canais/globoplaynovelas.png" group-title="Novelas",Globoplay Novelas
 http://64.31.23.207:80/08892467/61552913/518595.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="TNT Novelas FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/tntnovelas.png" group-title="Novelas",TNT Novelas
+#EXTINF:-1 tvg-id="299" tvg-name="TNT Novelas.br" tvg-logo="http://logos.appscms.xyz/logos/2025/tntnovelas.png" group-title="Novelas",TNT Novelas
 http://64.31.23.207:80/08892467/61552913/324485.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="SBT+ Novelas" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Novelas",SBT+ Novelas
+#EXTINF:-1 tvg-id="299" tvg-name="SBT+ Novelas.br" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Novelas",SBT+ Novelas
 http://64.31.23.207:80/08892467/61552913/324283.m3u8
 #EXTINF:-1 tvg-id="MTV.br" tvg-logo="https://img.faz-o-eli.online/mtv.png" group-title="Música",MTV
 https://bcf125302240-tvvio.baby-beamup.club/hls/mtv.m3u8
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png" group-title="Música",BIS
+#EXTINF:-1 tvg-id="BIS.br" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png" group-title="Música",BIS
 http://64.31.23.207:80/08892467/61552913/518550.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="Trace Brasil FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/tracebrasil.png" group-title="Música",Trace Brasil
+#EXTINF:-1 tvg-id="81" tvg-name="Trace Brasil.br" tvg-logo="http://www.fontedecanais.me/logos/canais/tracebrasil.png" group-title="Música",Trace Brasil
 http://64.31.23.207:80/08892467/61552913/518577.m3u8
 
